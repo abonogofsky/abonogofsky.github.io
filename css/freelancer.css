@@ -513,3 +513,6 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
+.portfolio-item img {
+    border: 3px solid #0B3232;
+}
