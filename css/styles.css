@@ -101,7 +101,7 @@ nav {
   font-weight: 700;
   font-size: 1.25rem;
   background-color: #ccc;
-  background: linear-gradient(45deg, #00d3ff, #b752ea8f, #ff0081);
+	background: linear-gradient(45deg, rgba(0,211,255,1),rgba(183,82,234,.56),rgba(255,0,129,1));
 }
 nav ul {
   display: flex;
@@ -176,7 +176,8 @@ div.about-para p {
 footer {
   background-color: #000;
   margin-top: 2rem;
-  background: linear-gradient(45deg, #ff0081, #b752ea8f, #00d3ff);
+	background: linear-gradient(45deg, rgba(255,0,129,1),rgba(183,82,234,.56),rgba(0,211,255,1));
+
 }
 footer p {
   color: #000;
