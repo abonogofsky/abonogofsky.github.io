@@ -148,8 +148,6 @@ span.overlay {
 	background-color: rgba(0,0,0,.8);
 	box-shadow: inset .25rem .25rem 0 rgba(255,0,129,.8), .25rem .25rem .5rem rgba(0,211,255,.8);
 	padding: 1rem;
-	-moz-transform: skew(20deg);
-	-o-transform: skew(20deg);
 	text-align: center;
 }
 
