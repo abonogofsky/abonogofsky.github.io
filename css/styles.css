@@ -192,8 +192,14 @@ a.social-links span {
     color: #000;
     padding-top:.75rem;
 }
-.featherlight-content {
-	display: none;
+.lb-data .lb-caption {
+    color:#fff;
+		font-size: 1rem;
+    line-height: 1.2;
+    text-shadow: 3px 3px 5px #000;
+}
+.lb-data .lb-details {
+    width: 95%;
 }
 /* Large Mobile and Up*/
 @media screen and (min-width:550px){
