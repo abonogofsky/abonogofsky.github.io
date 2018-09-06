@@ -135,10 +135,9 @@ nav li a {
   margin:1rem 0 1rem 0;
   border: 2px solid #000;
 }
-#work-container li a:hover {
+/*#work-container li a:hover {
 	filter: grayscale(50%) contrast(150%) opacity(80%);
-
-}
+}*/
 span.overlay {
 	position: absolute;
 	top: 50%;
